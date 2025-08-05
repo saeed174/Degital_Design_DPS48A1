@@ -1,0 +1,29 @@
+D:/Summer2025/Digital_Design/Project_1/Buffer/Buffer.v {1 {vlog -work work -vopt -stats=none D:/Summer2025/Digital_Design/Project_1/Buffer/Buffer.v
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module Buffer
+
+Top level modules:
+	Buffer
+
+} {} {}} D:/Summer2025/Digital_Design/Project_1/DSP.v {1 {vlog -work work -vopt -stats=none D:/Summer2025/Digital_Design/Project_1/DSP.v
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module DSP
+
+Top level modules:
+	DSP
+
+} {} {}} D:/Summer2025/Digital_Design/Project_1/DSP_tb.v {1 {vlog -work work -vopt -stats=none D:/Summer2025/Digital_Design/Project_1/DSP_tb.v
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module DSP_tb
+
+Top level modules:
+	DSP_tb
+
+} {} {}} D:/Summer2025/Digital_Design/Project_1/Pipeline_Mux/Pipeline_Mux.v {1 {vlog -work work -vopt -stats=none D:/Summer2025/Digital_Design/Project_1/Pipeline_Mux/Pipeline_Mux.v
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module Pipeline_Mux
+
+Top level modules:
+	Pipeline_Mux
+
+} {} {}}

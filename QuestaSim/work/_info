@@ -1,0 +1,117 @@
+m255
+K4
+z2
+Z0 !s99 nomlopt
+R0
+R0
+R0
+!s11f vlog 2021.1 2021.01, Jan 19 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/questasim64_2021.1/examples
+T_opt
+!s110 1753724884
+V;^Vdl54XE]SWKX`V:KePF0
+04 6 4 work DSP_tb fast 0
+=1-30f6ef2d8520-6887b7d4-76-9f5c
+!s124 OEM100
+o-quiet -auto_acc_if_foreign -work work +acc
+Z1 tCvgOpt 0
+n@_opt
+OL;O;2021.1;73
+vBuffer
+Z2 !s110 1753724880
+!i10b 1
+!s100 Uo@LSJMe`NV9lOg_<QgGj1
+I4l?=zZYW?hQDOoj79h0zS0
+Z3 dD:/Summer2025/Digital_Design/Project_1/QuestaSim
+w1753570358
+8D:/Summer2025/Digital_Design/Project_1/Buffer/Buffer.v
+FD:/Summer2025/Digital_Design/Project_1/Buffer/Buffer.v
+!i122 27
+L0 1 7
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+Z5 OL;L;2021.1;73
+r1
+!s85 0
+31
+Z6 !s108 1753724880.000000
+!s107 D:/Summer2025/Digital_Design/Project_1/Buffer/Buffer.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Summer2025/Digital_Design/Project_1/Buffer/Buffer.v|
+!i113 0
+Z7 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+n@buffer
+vDSP
+Z8 !s110 1753724879
+!i10b 1
+!s100 YXBg90i]QEF9bO>HM[5g_1
+IjhAi576D]m[WEW^EK27P90
+R3
+w1753724359
+8D:/Summer2025/Digital_Design/Project_1/DSP.v
+FD:/Summer2025/Digital_Design/Project_1/DSP.v
+!i122 25
+L0 1 160
+R4
+R5
+r1
+!s85 0
+31
+Z9 !s108 1753724879.000000
+!s107 D:/Summer2025/Digital_Design/Project_1/DSP.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Summer2025/Digital_Design/Project_1/DSP.v|
+!i113 0
+R7
+R1
+n@d@s@p
+vDSP_tb
+R8
+!i10b 1
+!s100 i^FKX9dOHA5@J3T3H<@DJ3
+I_ii@5ZW2T;dGFO69T:7h00
+R3
+w1753724870
+8D:/Summer2025/Digital_Design/Project_1/DSP_tb.v
+FD:/Summer2025/Digital_Design/Project_1/DSP_tb.v
+!i122 26
+L0 1 146
+R4
+R5
+r1
+!s85 0
+31
+R9
+!s107 D:/Summer2025/Digital_Design/Project_1/DSP_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Summer2025/Digital_Design/Project_1/DSP_tb.v|
+!i113 0
+R7
+R1
+n@d@s@p_tb
+vPipeline_Mux
+R2
+!i10b 1
+!s100 Hk;EZ3Kflbjc[EbLizjgS0
+IDh^j]1CT:KWU4^fG]GO9?1
+R3
+w1753569332
+8D:/Summer2025/Digital_Design/Project_1/Pipeline_Mux/Pipeline_Mux.v
+FD:/Summer2025/Digital_Design/Project_1/Pipeline_Mux/Pipeline_Mux.v
+!i122 28
+L0 1 41
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/Summer2025/Digital_Design/Project_1/Pipeline_Mux/Pipeline_Mux.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Summer2025/Digital_Design/Project_1/Pipeline_Mux/Pipeline_Mux.v|
+!i113 0
+R7
+R1
+n@pipeline_@mux
